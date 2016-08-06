@@ -1,0 +1,32 @@
+_repo: The-Story-of-the-Other-Wise-Man_10679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Magi -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: The Story of the Other Wise Man
+url: http://www.gutenberg.org/ebooks/10679
